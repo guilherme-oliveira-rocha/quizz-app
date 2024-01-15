@@ -8,7 +8,7 @@ import options from '../../assets/img/options.png';
 import hints from '../../assets/img/hints.png';
 
 
-const QuizInstructions = () => ( 
+const QuizInstructions = () => (
   <Fragment>
     <Helmet><title>Quiz Instructions - Quiz App</title></Helmet>
     <div className="instructions container">
